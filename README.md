@@ -79,4 +79,4 @@ El archivo `src/index.ts` contiene la lógica para ejecutar y mostrar los result
         node dist/index.js
         ```
 
-## 📂 Estructura del Proyecto
+
